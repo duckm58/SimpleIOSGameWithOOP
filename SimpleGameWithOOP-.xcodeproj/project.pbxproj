@@ -17,6 +17,7 @@
 		33439C331C74ABC900DC2356 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33439C321C74ABC900DC2356 /* Character.swift */; };
 		33439C351C74AE7C00DC2356 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33439C341C74AE7C00DC2356 /* Player.swift */; };
 		33439C371C74B70600DC2356 /* Enemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33439C361C74B70600DC2356 /* Enemy.swift */; };
+		33439C391C74BA4300DC2356 /* Knight1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33439C381C74BA4300DC2356 /* Knight1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		33439C321C74ABC900DC2356 /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		33439C341C74AE7C00DC2356 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		33439C361C74B70600DC2356 /* Enemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enemy.swift; sourceTree = "<group>"; };
+		33439C381C74BA4300DC2356 /* Knight1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Knight1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				33439C101C74AB9F00DC2356 /* Info.plist */,
 				33439C321C74ABC900DC2356 /* Character.swift */,
 				33439C341C74AE7C00DC2356 /* Player.swift */,
+				33439C381C74BA4300DC2356 /* Knight1.swift */,
 				33439C361C74B70600DC2356 /* Enemy.swift */,
 			);
 			path = "SimpleGameWithOOP-";
@@ -270,6 +273,7 @@
 			files = (
 				33439C351C74AE7C00DC2356 /* Player.swift in Sources */,
 				33439C371C74B70600DC2356 /* Enemy.swift in Sources */,
+				33439C391C74BA4300DC2356 /* Knight1.swift in Sources */,
 				33439C331C74ABC900DC2356 /* Character.swift in Sources */,
 				33439C071C74AB9F00DC2356 /* ViewController.swift in Sources */,
 				33439C051C74AB9F00DC2356 /* AppDelegate.swift in Sources */,
